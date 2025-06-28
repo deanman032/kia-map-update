@@ -3,7 +3,7 @@ How to Update Kia Map? 🗺️🚗
 
 Keeping your Kia's map updated isn't just about new roads — it's about smooth, safe, and stress-free driving! 😄🛣️ If your navigation system is giving wrong turns or missing new places, it's likely time for a **Kia map update**.
 
-.. image:: start.png
+.. image:: update-now.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
